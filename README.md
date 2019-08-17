@@ -13,3 +13,5 @@ General Instructions:
 5. Edit the 'emaillist.py' program to fit your needs. Change the paths for the initial file open commands. Check the newly created 'emaillist.txt' file. 
 
 6. You can copy the email list into Excel and separate the names from emails by using the text-to-columns command and separating by the '<' character. 
+
+Jonah Tang has improved the code for this task. His code can be found at https://github.com/jonahc-tang/canvas_data_pull?fbclid=IwAR1_g3r6fqemGV6i3PCgPxDl0ick4bjqbBLrCW4DK9I57bq95dRnhLcFHMg. 
